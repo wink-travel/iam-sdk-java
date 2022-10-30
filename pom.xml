@@ -8,10 +8,10 @@
         <version>9</version>
     </parent>
     <groupId>travel.wink</groupId>
-    <artifactId>wink-sdk-java</artifactId>
-    <version>22.1.9-SNAPSHOT</version>
+    <artifactId>iam-sdk-java</artifactId>
+    <version>0.0.1</version>
     <packaging>pom</packaging>
-    <name>wink.travel Java SDK</name>
+    <name>wink.travel OAuth2 support library for our Java SDKs</name>
     <description>Java libraries for all wink APIs.</description>
 
     <developers>
@@ -28,9 +28,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:ssh://github.com:wink-travel/wink-sdk-java.git</connection>
-        <developerConnection>scm:git:ssh://github.com:wink-travel/wink-sdk-java.git</developerConnection>
-        <url>https://github.com/wink-travel/wink-sdk-java</url>
+        <connection>scm:git:ssh://github.com:wink-travel/iam-sdk-java.git</connection>
+        <developerConnection>scm:git:ssh://github.com:wink-travel/iam-sdk-java.git</developerConnection>
+        <url>https://github.com/wink-travel/iam-sdk-java</url>
         <tag>HEAD</tag>
     </scm>
 
@@ -73,16 +73,6 @@
     </properties>
 
     <modules>
-        <module>affiliate</module>
-		<module>analytics</module>
-        <module>booking</module>
-        <module>channel-manager</module>
-        <module>extranet</module>
-        <module>inventory</module>
-        <module>lookup</module>
-		<module>payment</module>
-		<module>payment-acquiring</module>
-        <module>reference</module>
         <module>oauth2-web-client</module>
     </modules>
 
