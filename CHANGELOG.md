@@ -2,6 +2,47 @@
 
 Changelog of iam-sdk-java.
 
+## 23.1.0 (2022-11-07)
+
+### Other changes
+
+**Merge branch 'release/23.1.0'**
+
+
+[01ab8](https://github.com/wink-travel/iam-sdk-java/commit/01ab8843c1a0059) Bjorn Harvold *2022-11-07 18:48:21*
+
+**Update versions for release**
+
+
+[082fd](https://github.com/wink-travel/iam-sdk-java/commit/082fd32eba498e4) Bjorn Harvold *2022-11-07 18:48:10*
+
+**:twisted_rightwards_arrows: doc: merged CHANGELOG.md from master into develop branch**
+
+
+[267ec](https://github.com/wink-travel/iam-sdk-java/commit/267ec5ff0cbd8a4) Bjorn Harvold *2022-10-30 08:31:25*
+
+**Update for next development version**
+
+
+[dcd19](https://github.com/wink-travel/iam-sdk-java/commit/dcd197e84465517) Bjorn Harvold *2022-10-30 08:31:11*
+
+**Merge tag '0.0.2' into develop**
+
+* Tag release 
+
+[3a97d](https://github.com/wink-travel/iam-sdk-java/commit/3a97d27243ce0aa) Bjorn Harvold *2022-10-30 08:31:09*
+
+
+## v0.0.2 (2022-10-30)
+
+### Other changes
+
+**:memo: doc: Updated CHANGELOG.md...**
+
+
+[ed6f2](https://github.com/wink-travel/iam-sdk-java/commit/ed6f224f2fb296c) Bjorn Harvold *2022-10-30 08:31:21*
+
+
 ## 0.0.2 (2022-10-30)
 
 ### Other changes
