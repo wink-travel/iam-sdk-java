@@ -9,7 +9,7 @@
     </parent>
     <groupId>travel.wink</groupId>
     <artifactId>iam-sdk-java</artifactId>
-    <version>23.1.0-SNAPSHOT</version>
+    <version>23.1.0</version>
     <packaging>pom</packaging>
     <name>wink.travel OAuth2 support library for our Java SDKs</name>
     <description>Java libraries for all wink APIs.</description>
