@@ -13,7 +13,8 @@ git pull
 git checkout develop
 
 echo "Retrieving next version number..."
-newVersion=`npx git-changelog-command-line --print-next-version --major-version-pattern BREAKING --minor-version-pattern feat`
+#newVersion=`npx git-changelog-command-line --print-next-version --major-version-pattern BREAKING --minor-version-pattern feat`
+newVersion=23.1.0
 
 read -p "Do you want to proceed with version $newVersion? (y/n) " yn
 
